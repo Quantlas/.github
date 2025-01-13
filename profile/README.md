@@ -1,18 +1,17 @@
-# Nombre de la Organización
+# Quantlas
 
-![Logo de la Organización](ruta/al/logo.png)
+![Logo de la Organización](img/logo.png)
 
 Bienvenidos a la página de nuestra organización. Nos dedicamos a...
 
 ## Proyectos Principales
 
-- [Proyecto 1](link-al-repositorio)
-- [Proyecto 2](link-al-repositorio)
-- [Proyecto 3](link-al-repositorio)
+- [API Login Register Base]([link-al-repositorio](https://github.com/Quantlas/login-register-api-base))
 
 ## Contribuidores
 
 Agradecemos el esfuerzo y dedicación de todos nuestros miembros.
+[@MrGiorgi](https://github.com/MrGiorgi)
 
 ## Contacto
 
